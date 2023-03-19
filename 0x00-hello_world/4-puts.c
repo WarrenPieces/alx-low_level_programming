@@ -4,7 +4,7 @@
 /**
  * main - The main function
  *
- * return : always 0
+ * Return: 0 (Success)
  *
  */
 
