@@ -10,7 +10,7 @@
 listint_t *find_listint_loop(listint_t *head)
 {
 	listint_t *q = head;
-	listing_t *w = head;
+	listint_t *w = head;
 
 	if (!head)
 		return (NULL);
